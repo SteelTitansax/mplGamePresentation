@@ -2,7 +2,7 @@
 presentation game as cover letter to present my porfolios
 ## Here you can find the different porfolios that I've been working with during my career.
 
-## Live demo : 
+## Live demo : https://mpl-game-presentation.vercel.app/
 
 For Setting up this portfolio clone the repo with the following command : 
 
