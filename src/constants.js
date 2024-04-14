@@ -3,9 +3,9 @@ export const scaleFactor = 4;
 export const dialogueData = {
   industryPortfolio: `Since a few years ago, I tried to put all the knowledge of my different backgrounds together. The result of this is my Industrial IT Portfolio. 
   <br/><br/>Please have a look to it clicking this link <a href="https://industrial-it-portfolio.vercel.app/" target="_blank">Industrial Portfolio</a>.`,
-  rpaPortfolio: `I've been working as a DPA and RPA developer in different companies for four years. In order to prove my knowledge of the different RPA and DPA tools I built this Portfolio.  
+  rpaPortfolio: `I've worked as a DPA and RPA developer in different companies for four years. In order to prove my knowledge of the different RPA and DPA tools I built this Portfolio.  
   <br/><br/>Please have a look to it clicking this link <a href="https://rpa-portfolio.vercel.app/" target="_blank">DPA/RPA Portfolio</a>.`,
-  fullStackPortfolio: `I've been working as a software developer in different companies for two years. In order to proof knowledge with the different Pro Code / Low Code technologies I build this Portfolio.  
+  fullStackPortfolio: `I've worked as a software developer in different companies for two years. In order to prove my knowledge of the different Pro Code / Low Code technologies I build this Portfolio.  
   <br/><br/>Please have a look to it clicking this link <a href="https://full-stack-port-folio.vercel.app/" target="_blank">Full Stack Portfolio</a>.`,
   mlPortfolio: `I've been studying and improving my knowledge in Machine Learning since a few years ago. I finished some certificates and on my different jobs I've been experiencing with prebuilt models. In order to proof knowledge with the different Machine Learning technologies I build this Portfolio.  
   <br/><br/>Please have a look to it clicking this link <a href="https://ml-developer-portfolio.vercel.app/" target="_blank">Machine Learning Portfolio</a>.`,
