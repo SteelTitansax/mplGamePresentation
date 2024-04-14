@@ -14,7 +14,7 @@ export const dialogueData = {
   sofa: `Do you want to watch the tv ? . I suggest you to check my multimedia content in my website then!. <br/><br/> Please click this link and check it out  :
    <a href="https://profesionalwebsite-mpl.vercel.app/" target="_blank">Manuel Portero Website</a>.`,
   printer: `I use to make projects with my 3D printer and my Arduino devices (MycroPython) in my free time. I'm planning to create a portfolio soon but it's not ready yet ^^'`, 
-  tv: `Do you want to watch the tv ? . I suggest you to check my multimedia content in my website then!. <br/><br/> Please click this link and check it out  :
+  tv: `Do you want to watch the tv ? . I suggest you to check the multimedia content of my website then!. <br/><br/> Please click this link and check it out  :
    <a href="https://profesionalwebsite-mpl.vercel.app/" target="_blank">Manuel Portero Website</a>.`, 
   bed: `Im actually settled in Barcelona, but I've been living for 5 years in Glasgow (UK), due that I'm used to work with people from different cultures.`,
   bed2: `Im actually stettled in Barcelona, but I've been living for 5 years in Glasgow (UK), due that I'm used to work with people from different cultures.`,
