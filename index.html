@@ -13,11 +13,15 @@
         font-family: monogram;
         src: url(monogram.ttf);
       }
-
+      
       body {
         font-family: monogram, monospace;
         font-size: 2rem;
         overflow: hidden;
+        width: 200%;
+        height: 200%;
+        transform-origin: top left;
+        transform: scale(50%);
       }
 
       #app {
@@ -72,10 +76,7 @@
         flex-direction: column;
         color: rgb(238, 238, 238);
       }
-      canvas {  /* or some other selector */
-        width: 500px;
-        height: 400px;
-      }
+      
     </style>
     <div id="app">
       <div>
